@@ -1,0 +1,12 @@
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.csproj.AssemblyReference.cache
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.AssemblyInfoInputs.cache
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.AssemblyInfo.cs
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.csproj.CoreCompileInputs.cache
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\bin\Debug\net6.0\TCCS.DataAccess.deps.json
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\bin\Debug\net6.0\TCCS.DataAccess.dll
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\bin\Debug\net6.0\TCCS.DataAccess.pdb
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.dll
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\obj\Debug\net6.0\refint\TCCS.DataAccess.dll
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\obj\Debug\net6.0\TCCS.DataAccess.pdb
+D:\Chaitali\Projects\.NET Projects\NetCoreRepositoryWithDapper\TCCS.DataAccess\obj\Debug\net6.0\ref\TCCS.DataAccess.dll
